@@ -1,0 +1,57 @@
+/* 
+   Localizable.strings
+   Y-Location
+
+   Created by Chris Yunker on 3/21/09.
+   Copyright 2009 Chris Yunker. All rights reserved.
+ */
+
+// Map Controller
+"YLocationTitle"		= "Y-Location";
+"SendButton"			= "Send";
+"SettingsButton"		= "Settings";
+
+// Confirm
+"ConfirmViewTitle"		= "Confirm Location";
+"ConfirmButton"			= "Send";
+"BackButton"			= "Back";
+
+// Status Messages
+"StatusLoading"			= "Loading Map";
+"StatusDragDrop"		= "Drag & Drop Marker";
+
+// Error Messages
+"MessageNoConn"			= "Connect to internet and restart application";
+"MessageNoLocService"	= "Enable Location Services and restart application";
+"StatusNoConn"			= "No Internet";
+"StatusNoLocService"	= "No Location Services";
+"OK"					= "OK";
+
+// Config Controller
+"ConfigureTitle"		= "Settings";
+"ConfHeaderMapType"		= "Map Type";
+"ConfHeaderEmail"		= "Customize Email";
+"subjectString"			= "Email Subject";
+"bodyString"			= "Email Body";
+"AboutLink"				= "About";
+
+"MapButton"				= "Map";
+"SatelliteButton"		= "Satellite";
+"HybridButton"			= "Hybrid";
+"PhysicalButton"		= "Physical";
+
+"ConfirmResetTitle"		= "Confirm Reset Settings";
+"CancelButton"			= "Cancel";
+"ResetButton"			= "Reset Settings";
+
+// String Edit Controller
+"ClearButton"			= "Clear";
+
+// About Controller
+"AboutTitle"			= "About";
+"AboutText"				= "Y-Location\nVersion 1.0\nWritten by Chris Yunker\nCopyright © 2009\nwww.chrisyunker.com";
+
+// Registry
+"DefaultSubjectString"	= "My Location";
+"DefaultBodyString"		= "Select link to see my location.";
+
