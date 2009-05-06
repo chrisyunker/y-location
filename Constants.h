@@ -10,7 +10,7 @@
 #include <CoreLocation/CoreLocation.h>
 
 #define kVersionMajor			1
-#define kVersionMinor			0
+#define kVersionMinor			1
 
 // User Default Keys
 #define kKeySavedDefaults		@"savedDefaults"

@@ -304,8 +304,8 @@ static NSString *idAboutCell = @"IDAboutCell";
 			if (!cell)
 			{
 				cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:idResetCell] autorelease];
-				cell.text = NSLocalizedString(@"ResetButton", @"");
-				cell.textAlignment = UITextAlignmentCenter;
+				cell.textLabel.text = NSLocalizedString(@"ResetButton", @"");
+				cell.textLabel.textAlignment = UITextAlignmentCenter;
 			}
 			break;
 		}
